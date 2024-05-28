@@ -1,0 +1,65 @@
+GrowthTutorials (Firestore Root)
+├── users (Collection)
+│   ├── {userId} (Document)
+│   │   ├── name: string
+│   │   ├── email: string
+│   │   ├── role: string (global role: admin/user)
+│   │   ├── age: number
+│   │   ├── address: string
+│   │   ├── additional user details...
+├── registrations (Collection)
+│   ├── {registrationId} (Document)
+│   │   ├── subdomain: string
+│   │   ├── instituteName: string
+│   │   ├── address: string
+│   │   ├── startedSince: timestamp
+│   │   ├── status: string (enabled/disabled)
+├── institutes (Collection)
+│   ├── {instituteId} (Document)
+│   │   ├── subdomain: string
+│   │   ├── instituteName: string
+│   │   ├── address: string
+│   │   ├── startedSince: timestamp
+│   │   ├── customization (Sub-collection)
+│   │   │   ├── {customizationId} (Document)
+│   │   │   │   ├── websiteTitle: string
+│   │   │   │   ├── header: string
+│   │   │   │   ├── themeColor: string
+│   │   ├── users (Sub-collection)
+│   │   │   ├── {userId} (Document)
+│   │   │   │   ├── role: string (specific role in the institute)
+│   │   ├── newsEvents (Sub-collection)
+│   │   │   ├── {newsEventId} (Document)
+│   │   │   │   ├── title: string
+│   │   │   │   ├── content: string
+│   │   │   │   ├── date: timestamp
+│   │   ├── lectures (Sub-collection)
+│   │   │   ├── {lectureId} (Document)
+│   │   │   │   ├── title: string
+│   │   │   │   ├── description: string
+│   │   │   │   ├── schedule: timestamp
+│   │   ├── attendance (Sub-collection)
+│   │   │   ├── {attendanceId} (Document)
+│   │   │   │   ├── lectureId: string (Reference to lectures/{lectureId})
+│   │   │   │   ├── studentId: string (Reference to users/{userId})
+│   │   │   │   ├── status: string (present/absent)
+│   │   │   │   ├── date: timestamp
+│   │   ├── quizzes (Sub-collection)
+│   │   │   ├── {quizId} (Document)
+│   │   │   │   ├── title: string
+│   │   │   │   ├── questions: array
+│   │   │   ├── results (Sub-collection)
+│   │   │   │   ├── {resultId} (Document)
+│   │   │   │   │   ├── studentId: string (Reference to users/{userId})
+│   │   │   │   │   ├── score: number
+│   │   │   │   │   ├── date: timestamp
+│   │   ├── reports (Sub-collection)
+│   │   │   ├── {reportId} (Document)
+│   │   │   │   ├── type: string (performance/attendance/quiz)
+│   │   │   │   ├── content: string
+│   │   │   │   ├── date: timestamp
+├── activityLogs (Collection)
+│   ├── {logId} (Document)
+│   │   ├── userId: string (Reference to users/{userId})
+│   │   ├── action: string
+│   │   ├── timestamp: timestamp
