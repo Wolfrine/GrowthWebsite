@@ -20,7 +20,7 @@
 
 ### UI Development and Docker Setup:
 - Worked on the UI development for Growth Tutorials' SaaS application registration page, named GT Gurukul.
-- Added Docker to the NGINX setup on AWS EC2 Amazon Linux 2023 server. >>> ** Further implementation of docker is still pending **
+- Added Docker to the NGINX setup on AWS EC2 Amazon Linux 2023 server. >>> * Further implementation of docker is still pending *
 - Configured NGINX with default 80 and HTTPS ports, linking subdomains to the appropriate Angular apps.
 
 ### Customization and Theming:
