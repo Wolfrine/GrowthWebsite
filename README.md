@@ -6,6 +6,25 @@
 
 # Next To-Do for Growth Tutorials SaaS-based Application
 
+## Add News & Events Module
+- Develop a module to manage and display news and events related to the institute.
+- Include functionalities for adding, editing, and deleting news items and events.
+- Ensure the module is integrated with the main dashboard for easy access and visibility.
+
+## Implement Lecture & Attendance Management
+- Create a module for scheduling and managing lectures.
+- Develop an attendance tracking system that allows teachers to mark attendance and view attendance history.
+- Provide reporting features for attendance data.
+
+## Add Quiz and Report Modules
+- Implement a quiz module where teachers can create, assign, and grade quizzes.
+- Develop a report module that generates performance reports for students based on quizzes, attendance, and other metrics.
+
+## Activity Log Tracking and Display
+- Develop a system to track user activities within the application.
+- Create a module to display activity logs to administrators for monitoring purposes.
+- Ensure activity logs include important actions such as login, logout, data modifications, and other key interactions.
+
 ## Enhance Registration Page
 - Pre-fill the institute name field based on the subdomain parameter.
 - Provide a smooth user experience for registering new institutes.
@@ -43,25 +62,6 @@
 ## Prepare for Deployment
 - Ensure all aspects of the application are ready for deployment.
 - Plan and execute a deployment strategy, including backup and rollback procedures.
-
-## Add News & Events Module
-- Develop a module to manage and display news and events related to the institute.
-- Include functionalities for adding, editing, and deleting news items and events.
-- Ensure the module is integrated with the main dashboard for easy access and visibility.
-
-## Implement Lecture & Attendance Management
-- Create a module for scheduling and managing lectures.
-- Develop an attendance tracking system that allows teachers to mark attendance and view attendance history.
-- Provide reporting features for attendance data.
-
-## Add Quiz and Report Modules
-- Implement a quiz module where teachers can create, assign, and grade quizzes.
-- Develop a report module that generates performance reports for students based on quizzes, attendance, and other metrics.
-
-## Activity Log Tracking and Display
-- Develop a system to track user activities within the application.
-- Create a module to display activity logs to administrators for monitoring purposes.
-- Ensure activity logs include important actions such as login, logout, data modifications, and other key interactions.
 
 By incorporating these additional modules and functionalities, the Growth Tutorials SaaS-based application will offer a comprehensive suite of tools for educational management, enhancing its value and utility for users.
 
