@@ -9,7 +9,7 @@
 ```
 
 ## GT Gurukul Registration Website (register.growthtutorials.in)
-``
+```
 |-- Overview
 |-- Register Now (including Login)
 |    |-- Dashboard
@@ -18,10 +18,10 @@
 |    |-- Add Institute
 |    |-- Confirmation page
 |-- Demo Page
-``
+```
 
 ## SaaS Application (*.growthtutorials.in)
-`
+```
 |-- News & Events (pending)
 |-- Institute Login (pending)
 |-- Accept Registration (by admin) (pending)
@@ -31,4 +31,4 @@
 |-- Real-time/Active Quiz (pending)
 |-- Reports/Dashboards (pending)
 |-- Activity Log (pending)
-`
+```
