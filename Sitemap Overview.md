@@ -9,7 +9,9 @@
 ## GT Gurukul Registration Website (register.growthtutorials.in)
 - Overview
 - Register Now (including Login)
-- Registered Institute List (including for admin to enable/disable an institute)
+- Dashboard
+  - Registered Institute List (including for admin to enable/disable an institute)
+  - User list (only for admin)
 - Demo Page
 
 ## SaaS Application (*.growthtutorials.in)
