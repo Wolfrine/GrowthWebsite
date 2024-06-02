@@ -8,6 +8,8 @@
 - Add next to do here - whatever is in mind
 - Share this md file with chat GPT and ask to summarize it in md format and update here
 - Create new chat for any new to do that is taken up
+- Always check for best design and create template first
+- Plan Firestore structure and then integrate UI + Firestore
 - On completion of the to do, summarize and update here
 - Take a break and check for UX enhancements 
 
