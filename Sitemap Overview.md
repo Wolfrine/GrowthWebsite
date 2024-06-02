@@ -1,15 +1,15 @@
 # Growth Tutorials Website Structure/Sitemap
 
 ## Growth Tutorials Website (growthtutorials.in)
-`
+```
 |-- Welcome
 |-- About Us
 |-- Courses Offered
 |-- Contact Us
-`
+```
 
 ## GT Gurukul Registration Website (register.growthtutorials.in)
-`
+``
 |-- Overview
 |-- Register Now (including Login)
 |    |-- Dashboard
@@ -18,7 +18,7 @@
 |    |-- Add Institute
 |    |-- Confirmation page
 |-- Demo Page
-`
+``
 
 ## SaaS Application (*.growthtutorials.in)
 `
