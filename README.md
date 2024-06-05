@@ -11,7 +11,7 @@
 - Create template first for the next item taken up - always check for best design
 - Plan Firestore structure and then integrate UI + Firestore
 - On completion of the to do, summarize and update here
-- Take a break and check for UX enhancements 
+- Make sure to create quick usable items, take feedback/explore and improvise
 
 # Next To-Do for Growth Tutorials SaaS-based Application
 
