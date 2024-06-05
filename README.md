@@ -15,12 +15,6 @@
 
 # Next To-Do for Growth Tutorials SaaS-based Application
 
-## Activity tracker
-- Count of active logged-in users in gt_aj_app via common component --  either via pre build firestore auth (if possible) or by saving info whenever login happens
-- Total users list to be showns to admin in gt_aj_register -- create a side menu for admin so that switch can be done between Institute list and Users list
-
-## Can Git md file be displayed in website?
-
 ## Add News & Events Module
 - Develop a module to manage and display news and events related to the institute.
 - Include functionalities for adding, editing, and deleting news items and events.
@@ -39,6 +33,10 @@
 - Develop a system to track user activities within the application.
 - Create a module to display activity logs to administrators for monitoring purposes.
 - Ensure activity logs include important actions such as login, logout, data modifications, and other key interactions.
+- Count of active logged-in users in gt_aj_app via common component --  either via pre build firestore auth (if possible) or by saving info whenever login happens
+- Total users list to be showns to admin in gt_aj_register -- create a side menu for admin so that switch can be done between Institute list and Users list
+
+## Can Git md file be displayed in website?
 
 ## Enhance Registration Page
 - Pre-fill the institute name field based on the subdomain parameter.
