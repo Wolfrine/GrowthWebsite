@@ -16,18 +16,29 @@
 # Next To-Do for Growth Tutorials SaaS-based Application
 
 ## Add News & Events Module
-- Develop a module to manage and display news and events related to the institute.
-- Include functionalities for adding, editing, and deleting news items and events.
-- Ensure the module is integrated with the main dashboard for easy access and visibility.
+- Include functionalities for editing , and deleting news items and events.
+- Marking event with event date and countdown timer
+
+## User Registration to Institute
+- Students/ Parents/ Teachers can perform registration
+- Institute admin can accept this registration
+- Parents can link their child student account (and vice versa) - verification to be done by admin
+
+## Master Data mangement by Institute admin
+- Syllabus management
+- User account management
+- News and Events
+- Quiz bank
+- Other modules
+
+## Add Quiz and Report Modules
+- Implement a quiz module where teachers can create, assign, and grade quizzes.
+- Develop a report module that generates performance reports for students based on quizzes, attendance, and other metrics.
 
 ## Implement Lecture & Attendance Management
 - Create a module for scheduling and managing lectures.
 - Develop an attendance tracking system that allows teachers to mark attendance and view attendance history.
 - Provide reporting features for attendance data.
-
-## Add Quiz and Report Modules
-- Implement a quiz module where teachers can create, assign, and grade quizzes.
-- Develop a report module that generates performance reports for students based on quizzes, attendance, and other metrics.
 
 ## Activity Log Tracking and Display
 - Develop a system to track user activities within the application.
@@ -104,3 +115,8 @@ By incorporating these additional modules and functionalities, the Growth Tutori
 ## Error Handling and Redirection:
 - Managed error handling by ensuring that if the subdomain is not registered, the user is redirected to a registration page with the subdomain prefilled for a smoother registration process.
 - Addressed the issue of error being of type unknown by casting it to a known type (any).
+
+## Add News & Events Module
+- Develop a module to manage and display news and events related to the institute.
+- Include functionalities for adding, editing , and deleting news items and events.
+- Ensure the module is integrated with the main dashboard for easy access and visibility.
