@@ -24,6 +24,9 @@
 - Institute admin can accept this registration
 - Parents can link their child student account (and vice versa) - verification to be done by admin
 
+## SEO, meta tag, dynamic Favicon and site title implementation
+- https://css-tricks.com/essential-meta-tags-social-media/
+
 ## Master Data mangement by Institute admin
 - Syllabus management
 - User account management
