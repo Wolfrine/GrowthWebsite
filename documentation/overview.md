@@ -1,6 +1,8 @@
 # Documentation Overview
 
 ## Developer Documentation
+For developer community - using of services being provided
+
 - [Developer Guide](developers.md)
 
 ## Admin Documentation
