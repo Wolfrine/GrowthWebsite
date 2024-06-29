@@ -12,3 +12,7 @@
 
 ### Parents
 - [Parent Guide](user.md#parents)
+
+
+## Sample image
+![Sample image](https://myoctocat.com/assets/images/base-octocat.svg)
