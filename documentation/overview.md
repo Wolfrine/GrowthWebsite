@@ -1,14 +1,14 @@
 # Documentation Overview
 
 ## Developer Documentation
-- [Developer Guide](path/to/developer_documentation.md)
+- [Developer Guide](developer.md)
 
 ## Admin Documentation
-- [Admin Guide](path/to/admin_documentation.md)
+- [Admin Guide](admin.md)
 
 ## User Documentation
 ### Students
-- [Student Guide](path/to/user_documentation.md#students)
+- [Student Guide](user.md#students)
 
 ### Parents
-- [Parent Guide](path/to/user_documentation.md#parents)
+- [Parent Guide](user.md#parents)
