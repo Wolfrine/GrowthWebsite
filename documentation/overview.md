@@ -1,7 +1,7 @@
 # Documentation Overview
 
 ## Developer Documentation
-- [Developer Guide](developer.md)
+- [Developer Guide](developers.md)
 
 ## Admin Documentation
 - [Admin Guide](admin.md)
