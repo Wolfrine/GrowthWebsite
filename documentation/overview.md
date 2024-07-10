@@ -4,8 +4,8 @@
 For developer community - using of services being provided
 
 - [Developer Guide](developers.md)
-- [Getting Started](developer/getting-started.md)
-- [Project Structure](developer/project-structure.md)
+- [Getting Started](dev_getting-started.md)
+- [Project Structure](dev_project-structure.md)
 
 ## Admin Documentation
 - [Admin Guide](admin.md)
