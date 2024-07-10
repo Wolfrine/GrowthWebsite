@@ -11,7 +11,7 @@
 - [Parent Guide](user.md#parents)
 
 ## Developer Documentation
-For developer community - using of services being provided
+For developer community - using provided services
 
 - [Developer Guide](developers.md)
 - [Getting Started](dev_getting-started.md)
@@ -22,6 +22,7 @@ For developer community - using of services being provided
 - [UI Component](dev_UI-components.md)
 - [Services](dev_services.md)
 - [Routing](dev_routing.md)
+- [Error Handling](dev_error-handling.md)
 
 ## Sample image
 ![Sample image](https://myoctocat.com/assets/images/base-octocat.svg)
