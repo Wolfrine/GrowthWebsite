@@ -19,6 +19,7 @@ For developer community - using of services being provided
 - [Configuration](dev_configuration.md)
 - [Authentication](dev_authentication.md)
 - [Firestore Integration](dev_firestore-integration.md)
+- [UI Component](dev_UI-components.md)
 
 ## Sample image
 ![Sample image](https://myoctocat.com/assets/images/base-octocat.svg)
