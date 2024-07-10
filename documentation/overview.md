@@ -18,6 +18,7 @@ For developer community - using of services being provided
 - [Project Structure](dev_project-structure.md)
 - [Configuration](dev_configuration.md)
 - [Authentication](dev_authentication.md)
+- [Firestore Integration](dev_firestore-integration.md)
 
 ## Sample image
 ![Sample image](https://myoctocat.com/assets/images/base-octocat.svg)
