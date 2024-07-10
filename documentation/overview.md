@@ -17,7 +17,7 @@ For developer community - using of services being provided
 - [Getting Started](dev_getting-started.md)
 - [Project Structure](dev_project-structure.md)
 - [Configuration](dev_configuration.md)
-- [Authentication](dev_authentication.d)
+- [Authentication](dev_authentication.md)
 
 ## Sample image
 ![Sample image](https://myoctocat.com/assets/images/base-octocat.svg)
