@@ -20,9 +20,8 @@ Before setting up the project, ensure you have the following installed:
 
 2. **Install Dependencies:**
    ```sh
-  npm install
-  ```
-
+   npm install
+   ```
 3. **Setup Firebase:**
 - Install Firebase CLI if not already installed:  
   ```sh
