@@ -100,4 +100,3 @@
      .catch((err) => console.error(err));
    ```
 
-Please review this section, copy it to your Git repository, and let me know if any changes are needed or if we should proceed to the next section.
