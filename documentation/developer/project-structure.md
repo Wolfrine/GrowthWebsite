@@ -1,4 +1,4 @@
-[<- Back](./developer/overview.md)
+[<- Back](./overview.md)
 
 ## 3. Project Structure
 
