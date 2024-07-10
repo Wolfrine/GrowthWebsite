@@ -4,7 +4,7 @@
 For developer community - using of services being provided
 
 - [Developer Guide](developers.md)
-- [Getting Started](develope/getting-started.md)
+- [Getting Started](developer/getting-started.md)
 
 ## Admin Documentation
 - [Admin Guide](admin.md)
