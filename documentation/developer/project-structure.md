@@ -1,4 +1,4 @@
-[<- Back](./overview.md)
+[<- Back](https://github.com/Wolfrine/GrowthWebsite/blob/main/documentation/overview.md)
 
 ## 3. Project Structure
 
