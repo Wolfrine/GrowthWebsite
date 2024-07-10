@@ -19,7 +19,7 @@ Before setting up the project, ensure you have the following installed:
    ```
 
 2. **Install Dependencies:**
-  ```sh
+   ```sh
   npm install
   ```
 
@@ -55,5 +55,4 @@ Before setting up the project, ensure you have the following installed:
    ```sh
    ng serve
   ```
-
 The application should now be running on http://localhost:4200.
