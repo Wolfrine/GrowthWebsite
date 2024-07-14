@@ -1,5 +1,7 @@
 # Documentation Overview
 
+An overview of manual of GT Gurukul SaaS (Software as a Service) application
+
 ## Admin Documentation
 - [Admin Guide](admin.md)
 
