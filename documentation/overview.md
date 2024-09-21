@@ -26,5 +26,3 @@ For developer community - using provided services
 - [Routing](dev_routing.md)
 - [Error Handling](dev_error-handling.md)
 
-## Sample image
-![Sample image](https://myoctocat.com/assets/images/base-octocat.svg)
